@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3A7891992B7E630200B75316 /* CourseTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A7891982B7E630200B75316 /* CourseTableViewController.swift */; };
 		3A9B6E442B7D5D7700A7D3CC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A9B6E432B7D5D7700A7D3CC /* AppDelegate.swift */; };
 		3A9B6E462B7D5D7700A7D3CC /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A9B6E452B7D5D7700A7D3CC /* SceneDelegate.swift */; };
 		3A9B6E482B7D5D7700A7D3CC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A9B6E472B7D5D7700A7D3CC /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3A7891982B7E630200B75316 /* CourseTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CourseTableViewController.swift; sourceTree = "<group>"; };
 		3A9B6E402B7D5D7700A7D3CC /* hamit-assignment1-level6.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "hamit-assignment1-level6.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3A9B6E432B7D5D7700A7D3CC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3A9B6E452B7D5D7700A7D3CC /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				3A9B6E432B7D5D7700A7D3CC /* AppDelegate.swift */,
 				3A9B6E452B7D5D7700A7D3CC /* SceneDelegate.swift */,
 				3A9B6E472B7D5D7700A7D3CC /* ViewController.swift */,
+				3A7891982B7E630200B75316 /* CourseTableViewController.swift */,
 				3A9B6E492B7D5D7700A7D3CC /* Main.storyboard */,
 				3A9B6E4C2B7D5D7800A7D3CC /* Assets.xcassets */,
 				3A9B6E4E2B7D5D7800A7D3CC /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				3A9B6E482B7D5D7700A7D3CC /* ViewController.swift in Sources */,
 				3A9B6E442B7D5D7700A7D3CC /* AppDelegate.swift in Sources */,
+				3A7891992B7E630200B75316 /* CourseTableViewController.swift in Sources */,
 				3A9B6E462B7D5D7700A7D3CC /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
